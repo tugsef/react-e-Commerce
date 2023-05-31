@@ -1,0 +1,34 @@
+
+@import "~react-image-gallery/styles/css/image-gallery.css";
+ .App {
+  margin: 1em;
+ }
+
+.pro { 
+  display: block;
+  max-height: 50em;
+  
+  overflow-y: scroll;
+}
+
+.add{
+  width: 100%;
+}
+.parent {
+  
+
+  margin: 0;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+}
+
+
+
+
+
+
+
+
